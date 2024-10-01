@@ -44,21 +44,8 @@ You can install all dependencies using the command provided in the Installation 
 
 ## Getting Started
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/face-recognition-system.git
    cd face-recognition-system
    ```
-
-2. **Install the required libraries:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the application:**
-   ```bash
-   python main.py
-   ```
-
-4. Follow the on-screen instructions to register faces and start recognition.
-
