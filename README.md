@@ -1,5 +1,4 @@
 # Face Recognition System
-# Face Recognition System
 
 This project implements a **Face Recognition System** using a **Siamese Neural Network (SNN)** built from scratch in TensorFlow. The system is designed for real-time face recognition and features a user-friendly application interface developed with Kivy. 
 
